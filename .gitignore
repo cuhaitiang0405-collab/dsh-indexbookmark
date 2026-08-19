@@ -1,0 +1,9 @@
+# Dependencies / build artifacts — not part of the repo
+node_modules/
+package-lock.json
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
