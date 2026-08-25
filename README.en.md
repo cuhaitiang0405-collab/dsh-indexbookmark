@@ -22,7 +22,7 @@ A [DSH (DeepSeek Harness)](https://github.com/deepseek-ai/deepseek-harness) web 
 
 ```powershell
 # Prerequisite: global dsh + pnpm (`dsh plugin` forwards to pnpm)
-dsh plugin --profile web add github:<your-username>/dsh-indexbookmark
+dsh plugin --profile web add github:cuhaitiang0405-collab/dsh-indexbookmark
 ```
 
 `dsh plugin` will:
