@@ -22,7 +22,7 @@ DSH（DeepSeek Harness）Web 界面插件：**对话问题索引**。在输入�
 
 ```powershell
 # 前提：全局 dsh 与 pnpm（`dsh plugin` 依赖 pnpm）
-dsh plugin --profile web add github:<你的用户名>/dsh-indexbookmark
+dsh plugin --profile web add github:cuhaitiang0405-collab/dsh-indexbookmark
 ```
 
 `dsh plugin` 会：
